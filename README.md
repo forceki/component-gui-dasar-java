@@ -2,7 +2,6 @@
 ## Komponen GUI Dasar (Swing & Layout Manager)
 
 Repository ini berisi source code untuk praktikum **Modul 05 – Komponen GUI Dasar** menggunakan bahasa pemrograman **Java** dan library **Java Swing**.  
-Seluruh contoh dan tugas dikerjakan menggunakan **VS Code** dengan struktur project sederhana.
 
 
 ## 1. Struktur Project
