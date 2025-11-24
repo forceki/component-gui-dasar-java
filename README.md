@@ -17,6 +17,6 @@ src/
      ├── Latihan2.java
      ├── Latihan3.java
      ├── Latihan4.java
-     ├── App.java
-     └── Tugas.java
+ |── App.java 
+ |── Tugas.java
 README.md
